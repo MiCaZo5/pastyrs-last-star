@@ -2,7 +2,7 @@
   "id": "pastyrs-last-star",
   "title": "Пастыри Последней Звезды",
   "description": "Звёздный Атлас: авторский лист персонажа D&D 5e и специальные броски с поддержкой Dice So Nice.",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -38,5 +38,5 @@
   ],
   "url": "https://github.com/MiCaZo5/pastyrs-last-star",
   "manifest": "https://raw.githubusercontent.com/MiCaZo5/pastyrs-last-star/main/module.json",
-  "download": "https://github.com/MiCaZo5/pastyrs-last-star/releases/download/v0.7.1/pastyrs-last-star.zip"
+  "download": "https://github.com/MiCaZo5/pastyrs-last-star/releases/download/v0.7.2/pastyrs-last-star.zip"
 }
