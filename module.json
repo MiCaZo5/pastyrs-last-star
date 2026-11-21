@@ -1,0 +1,39 @@
+{
+  "id": "pastyrs-last-star",
+  "title": "Пастыри Последней Звезды",
+  "description": "Экспериментальный лист персонажа и кубы судьбы для D&D 5e.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Pastyrs Last Star"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/sheet.css"
+  ],
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json"
+    }
+  ],
+  "url": "https://github.com/MiCaZo5/pastyrs-last-star",
+  "manifest": "https://raw.githubusercontent.com/MiCaZo5/pastyrs-last-star/main/module.json",
+  "download": "https://github.com/MiCaZo5/pastyrs-last-star/releases/download/v0.1.0/pastyrs-last-star.zip"
+}
