@@ -1,8 +1,8 @@
 {
   "id": "pastyrs-last-star",
   "title": "Пастыри Последней Звезды",
-  "description": "Экспериментальный лист персонажа и кубы судьбы для D&D 5e.",
-  "version": "0.1.0",
+  "description": "Звёздный Атлас: авторский лист персонажа D&D 5e и специальные броски с поддержкой Dice So Nice.",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -11,7 +11,10 @@
     "systems": [
       {
         "id": "dnd5e",
-        "type": "system"
+        "type": "system",
+        "compatibility": {
+          "minimum": "4"
+        }
       }
     ]
   },
@@ -35,5 +38,5 @@
   ],
   "url": "https://github.com/MiCaZo5/pastyrs-last-star",
   "manifest": "https://raw.githubusercontent.com/MiCaZo5/pastyrs-last-star/main/module.json",
-  "download": "https://github.com/MiCaZo5/pastyrs-last-star/releases/download/v0.1.0/pastyrs-last-star.zip"
+  "download": "https://github.com/MiCaZo5/pastyrs-last-star/releases/download/v0.2.0/pastyrs-last-star.zip"
 }
