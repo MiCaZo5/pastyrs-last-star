@@ -2,7 +2,7 @@
   "id": "pastyrs-last-star",
   "title": "Пастыри Последней Звезды",
   "description": "Звёздный Атлас: авторский лист персонажа D&D 5e и специальные броски с поддержкой Dice So Nice.",
-  "version": "0.12.3",
+  "version": "0.13.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
